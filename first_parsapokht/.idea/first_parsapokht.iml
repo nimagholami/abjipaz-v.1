@@ -4,9 +4,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="first_parsapokht" />
-    <orderEntry type="module" module-name="onlinestore" />
-    <orderEntry type="module" module-name="supermarket" />
-    <orderEntry type="module" module-name="parsapokht" />
   </component>
 </module>
